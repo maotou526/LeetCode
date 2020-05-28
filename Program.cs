@@ -6,6 +6,8 @@ namespace Demo
       {
             static void Main(string[] args)
             {
+                  Console.WriteLine(new Problems.判断它是否是_2_的幂次方.Demo().IsPowerOfTwo(-16));
+                  //new Problems.和可被_K_整除的子数组.Demo().SubarraysDivByK(new int[] { 4, 5, 0, -2, -3, 1 }, 5);
                   //Console.WriteLine(new Program().LongestPalindrome("babad"));
             }
 
